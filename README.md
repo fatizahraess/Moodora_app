@@ -18,19 +18,19 @@ Moodora is a local-first Flutter Pomodoro app for planning tasks, running focus 
 
 | Welcome | Home | Tasks |
 | --- | --- | --- |
-| <img src="app-screens/welcome.png" width="220" alt="Moodora welcome screen"> | <img src="app-screens/home.png" width="220" alt="Moodora home screen"> | <img src="app-screens/tasks.png" width="220" alt="Moodora tasks screen"> |
+| <img src="app-screens/welcome.svg" width="220" alt="Moodora welcome screen"> | <img src="app-screens/home.svg" width="220" alt="Moodora home screen"> | <img src="app-screens/tasks.svg" width="220" alt="Moodora tasks screen"> |
 
 | Timer | Mood | Focus Coach |
 | --- | --- | --- |
-| <img src="app-screens/timer.png" width="220" alt="Moodora Pomodoro timer screen"> | <img src="app-screens/mood.png" width="220" alt="Moodora mood tracking screen"> | <img src="app-screens/focus-coach.png" width="220" alt="Moodora focus coach screen"> |
+| <img src="app-screens/timer.svg" width="220" alt="Moodora Pomodoro timer screen"> | <img src="app-screens/mood.svg" width="220" alt="Moodora mood tracking screen"> | <img src="app-screens/focus-coach.svg" width="220" alt="Moodora focus coach screen"> |
 
 | Focus Map | History | Settings |
 | --- | --- | --- |
-| <img src="app-screens/focus-map.png" width="220" alt="Moodora focus map screen"> | <img src="app-screens/history.png" width="220" alt="Moodora history screen"> | <img src="app-screens/settings.png" width="220" alt="Moodora settings screen"> |
+| <img src="app-screens/focus-map.svg" width="220" alt="Moodora focus map screen"> | <img src="app-screens/history.svg" width="220" alt="Moodora history screen"> | <img src="app-screens/settings.svg" width="220" alt="Moodora settings screen"> |
 
 | Profile |
 | --- |
-| <img src="app-screens/profile.png" width="220" alt="Moodora profile screen"> |
+| <img src="app-screens/profile.svg" width="220" alt="Moodora profile screen"> |
 
 ## Tech Stack
 

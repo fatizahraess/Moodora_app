@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Moodora focus map screen">
+  <rect width="390" height="844" rx="34" fill="#fff8f5"/>
+  <rect width="390" height="166" rx="24" fill="#f3654d"/>
+  <text x="195" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#ffffff">Focus Map</text>
+  <text x="195" y="138" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#ffffff">Understand where your focus time goes</text>
+  <rect x="32" y="184" width="326" height="158" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <text x="50" y="216" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#202231">Focus by Task</text>
+  <text x="50" y="250" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#202231">administration systemes</text>
+  <rect x="50" y="260" width="278" height="8" rx="4" fill="#fde8e2"/>
+  <rect x="50" y="260" width="268" height="8" rx="4" fill="#e95c43"/>
+  <text x="50" y="294" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#202231">Compilation</text>
+  <rect x="50" y="304" width="278" height="8" rx="4" fill="#fde8e2"/>
+  <rect x="50" y="304" width="14" height="8" rx="4" fill="#2e9a84"/>
+  <rect x="32" y="358" width="326" height="198" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <text x="50" y="390" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#202231">Focus by Priority</text>
+  <rect x="32" y="572" width="326" height="172" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <text x="50" y="604" font-family="Arial, sans-serif" font-size="15" font-weight="800" fill="#202231">Weekly Focus Heatmap</text>
+  <rect y="760" width="390" height="84" fill="#fff3ee"/>
+</svg>

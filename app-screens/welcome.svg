@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Moodora welcome screen">
+  <rect width="390" height="844" rx="34" fill="#fff8f5"/>
+  <circle cx="195" cy="328" r="42" fill="#fde8e2"/>
+  <circle cx="195" cy="328" r="24" fill="#e95c43"/>
+  <text x="195" y="420" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#202231">Welcome to Moodora</text>
+  <text x="195" y="456" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#202231">Organize your tasks, track your focus,</text>
+  <text x="195" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#202231">and understand your mood.</text>
+  <rect x="100" y="520" width="190" height="42" rx="21" fill="#e95c43"/>
+  <text x="195" y="547" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#ffffff">Get Started</text>
+</svg>

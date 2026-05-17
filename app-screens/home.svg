@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Moodora home screen">
+  <rect width="390" height="844" rx="34" fill="#fff8f5"/>
+  <rect width="390" height="226" rx="28" fill="#f3654d"/>
+  <text x="34" y="92" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Moodora</text>
+  <text x="34" y="194" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#ffffff">Welcome back</text>
+  <rect x="34" y="264" width="322" height="104" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <text x="52" y="298" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#202231">Today's Progress</text>
+  <rect x="52" y="318" width="286" height="10" rx="5" fill="#fde8e2"/>
+  <text x="34" y="412" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#202231">Focus Coach</text>
+  <rect x="34" y="438" width="322" height="104" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <text x="132" y="478" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#202231">Focus Score</text>
+  <text x="132" y="500" font-family="Arial, sans-serif" font-size="13" fill="#f3654d">0 / 100</text>
+  <rect x="34" y="558" width="322" height="176" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <text x="52" y="604" font-family="Arial, sans-serif" font-size="17" font-weight="800" fill="#202231">Recommended Focus</text>
+  <text x="52" y="646" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="#202231">administration systems</text>
+  <rect y="760" width="390" height="84" fill="#fff3ee"/>
+</svg>

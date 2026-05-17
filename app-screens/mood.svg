@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844" role="img" aria-label="Moodora mood tracking screen">
+  <rect width="390" height="844" rx="34" fill="#fff8f5"/>
+  <circle cx="195" cy="100" r="48" fill="#f3654d"/>
+  <text x="195" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="42">😊</text>
+  <text x="195" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="800" fill="#202231">How are you feeling?</text>
+  <text x="195" y="234" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#202231">Track how your mood affects productivity</text>
+  <rect x="34" y="250" width="322" height="40" rx="20" fill="#e95c43"/>
+  <text x="195" y="276" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="800" fill="#ffffff">Add mood</text>
+  <rect x="34" y="306" width="322" height="176" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <circle cx="88" cy="360" r="36" fill="#f3654d"/>
+  <text x="138" y="354" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#202231">Focus Mood</text>
+  <text x="138" y="380" font-family="Arial, sans-serif" font-size="13" fill="#7c716d">Motivated · 47/100</text>
+  <text x="34" y="522" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#202231">Mood insights</text>
+  <rect x="34" y="540" width="322" height="46" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <rect x="34" y="596" width="322" height="46" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <rect x="34" y="652" width="322" height="46" rx="8" fill="#ffffff" stroke="#f2d9d3"/>
+  <rect y="760" width="390" height="84" fill="#fff3ee"/>
+</svg>
